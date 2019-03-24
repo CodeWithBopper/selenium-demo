@@ -1,0 +1,11 @@
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\bin\Debug\Selenium.Framework.dll
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\bin\Debug\Selenium.Framework.pdb
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\bin\Debug\WebDriver.dll
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\bin\Debug\WebDriver.xml
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\obj\Debug\Selenium.Framework.csprojAssemblyReference.cache
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\obj\Debug\Selenium.Framework.csproj.CoreCompileInputs.cache
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\obj\Debug\Selenium.Framework.csproj.CopyComplete
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\obj\Debug\Selenium.Framework.dll
+C:\Users\mjoinson\source\repos\SeleniumTest\Selenium.Framework\obj\Debug\Selenium.Framework.pdb
